@@ -1,0 +1,10 @@
+.content{
+    .sidebar {
+        width: 200px;
+        color: black;
+        /* padding: 20px; */
+        height: 10vh;
+        
+        flex-direction:row;
+      }
+}
